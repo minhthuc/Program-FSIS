@@ -231,7 +231,7 @@ public class Customer implements Comparable<Customer>{
    */
   public String toString() {
     return "Customer: ID:" + id + " Name: " + name + " phone Number: 0"
-      + phoneNumber + " Address:" + address;
+      + phoneNumber + " Address:" + address + "\n";
   }
 
   /**
